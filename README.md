@@ -1,3 +1,3 @@
 # Portfolio
 
-I created this Portfolio to showcase my work with Java and Python.
+I created this Portfolio to showcase my work with Java and Python and other .
